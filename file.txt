@@ -1,6 +1,8 @@
+iiiiiiiiiiiiiiii Line Updated in newBranche2
 File updated on newBranch1
 gjjhhhkhkdshksf
 iushhudhdshkdvskhsq
 uihskfsfsgjhs
 khkkhsksdkhkfsh
 khkkhshksfkhsf
+This line was added in newBranch2
